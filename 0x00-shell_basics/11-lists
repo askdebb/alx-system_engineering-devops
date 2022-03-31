@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /root *
+ls -la /root * /root/alx-system_engering_devops * /root/alx-system_engieering_devops/0x00-shell_basics
